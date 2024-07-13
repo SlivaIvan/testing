@@ -51,4 +51,3 @@ describe('Credit Card Validator form', () => {
     await page.waitForSelector('.input.novalid');
   });
 });
-
